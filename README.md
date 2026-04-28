@@ -1,49 +1,57 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A960EE&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Aakash+A!;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Sophomore+%40+REC+%F0%9F%8E%93;Building+Cool+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=1800&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+!;I%27m+Aakash+A;Sophomore+in+Engineering" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakxsh706&label=Profile%20Views&color=a960ee&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aakxsh706?label=Followers&style=flat&color=a960ee" alt="followers" />
-</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```python
-class Aakash:
-    name        = "Aakash A"
-    college     = "Rajalakshmi Engineering College"
-    department  = "B.Tech — Artificial Intelligence & Data Science"
-    year        = "Sophomore (2nd Year)"
-    goal        = "Software Engineering Internship"
+```java
+class Aakash {
 
-    interests   = [
+    String name = "Aakash A";
+    String college = "Rajalakshmi Engineering College";
+    String department = "B.Tech — Artificial Intelligence & Data Science";
+    String year = "Sophomore (2nd Year)";
+    String goal = "Software Engineering Internship";
+
+    String[] interests = {
         "Cloud Computing",
         "Data Science & Analytics",
         "Full Stack Web Development",
         "Graphic Design"
-    ]
+    };
 
-    fun_fact    = "I name my variables better than I name my folders.📊"
+    String funFact = "I name my variables better than I name my folders. 📊";
+}
 ```
 
 ---
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=aakxsh706&label=Profile%20Views&color=1E90FF&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/aakxsh706?label=Followers&style=flat&color=1E90FF" alt="followers" />
+</p>
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=Python;HTML5;CSS3;JavaScript" />
+</p>
+
 ### 💻 Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+
 ### 🗄️ Databases
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -54,7 +62,7 @@ class Aakash:
 </p>
 
 ### 🚀 Frameworks & Backend
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -63,14 +71,13 @@ class Aakash:
   &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+  
 
 ### 🧰 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" height="80"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="48"/>
 </p>
@@ -79,12 +86,19 @@ class Aakash:
 
 ## 🖥️ IDE I Use
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+## 💻 Workspace Specs
+<p align="center">
+  💻 MacBook Pro M4  
+  ⚡ Apple M4 Chip  
+  🚀 High Performance for Development  
 </p>
 
 ---
