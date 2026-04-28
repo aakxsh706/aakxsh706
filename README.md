@@ -20,13 +20,13 @@ class Aakash:
     goal        = "Software Engineering Internship"
 
     interests   = [
-        "AI & Machine Learning",
+        "Cloud Computing",
         "Data Science & Analytics",
         "Full Stack Web Development",
-        "Problem Solving"
+        "Graphic Design"
     ]
 
-    fun_fact    = "I turn coffee ☕ into code and data into decisions 📊"
+    fun_fact    = "I name my variables better than I name my folders.📊"
 ```
 
 ---
