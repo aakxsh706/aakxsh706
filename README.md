@@ -102,6 +102,34 @@ class Aakash {
 </p>
 
 ---
+## 🎯 What I'm Working On
+```python
+    def __init__(self):
+     
+
+        self.currently_learning = [
+            "Computer Networks",
+            "Deep Learning"
+        ]
+
+        self.building = [
+            "Flask",
+            "PostgreSQL",
+            "MongoDB"
+        ]
+
+        self.exploring = [
+            "Data Science Pipelines",
+            "AI Model Deployment"
+        ]
+
+        self.strengthening = [
+            "Full Stack Web Development"
+        ]
+
+        self.goal = "Getting Placed by 2027 🏆"
+```
+---
 
 ## 📊 GitHub Stats
 
@@ -117,23 +145,8 @@ class Aakash {
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakxsh706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</p>
-
 ---
 
-## 🎯 What I'm Working On
-
-- 🌱 Currently learning **Machine Learning & Deep Learning**
-- 🔭 Building projects with **Flask + PostgreSQL + MongoDB**
-- 💡 Exploring **Data Science pipelines** and **AI model deployment**
-- 📚 Strengthening **Full Stack Web Development** concepts
-- 🎯 Targeting **Software Engineering Internships (2025)**
-
----
 
 ## 📬 Reach Me
 
@@ -153,9 +166,9 @@ class Aakash {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a960ee&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0000FF&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <i>⭐ If you find my work interesting, feel free to star my repos!</i>
+  <i>⭐ Turning ideas into code — star if you enjoy the journey 💻✨</i>
 </p>
