@@ -143,6 +143,13 @@ class Aakash {
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/aakash-a">
+    <img src="https://img.shields.io/badge/LinkedIn-Aakash%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 ---
 
 <p align="center">
