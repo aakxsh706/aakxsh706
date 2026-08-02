@@ -12,7 +12,7 @@ class Aakash {
     String name = "Aakash A";
     String college = "Rajalakshmi Engineering College";
     String department = "B.Tech — Artificial Intelligence & Data Science";
-    String year = "Sophomore (2nd Year)";
+    String year = "Pre-Final Year (3rd Year)";
     String goal = "Software Engineering Internship";
 
     String[] interests = {
